@@ -2,13 +2,20 @@
     <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
 </p>
 
--------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+## 📑 Descrição
 
-## 💻 Tecnologias
-- HTML
-- CSS
-- JavaScript
+Simulador de piano
+
+## 🎯 Funcionalidades
+
+- [x] ``: Inverter o tema.
+
+## 💻 Tecnologias 
+
+`HTML`: Linguagem utilizada para desenvolver a estrutura 
+`CSS`: Linguagem utilizada para desenvolver o visual 
+`JavaScript`: Linguagem utilizada para desenvolver a lógica de toda a aplicação
+
 
 ## 💬 Assuntos abordados
 - HTML
@@ -81,4 +88,8 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
+- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/)
+
+## 🚧 Licença:
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
