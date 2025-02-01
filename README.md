@@ -8,7 +8,7 @@ Simulador de piano
 
 ## 🎯 Funcionalidades
 
-- [x] ``: Inverter o tema.
+- [x] : Inverter o tema.
 
 ## 💻 Tecnologias 
 
