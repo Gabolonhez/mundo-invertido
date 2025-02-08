@@ -5,18 +5,17 @@
 
 ## 📑 Descrição
 
-Simulador de piano
+Site do mundo invertido da série Stranger Things
 
 ## 🎯 Funcionalidades
 
-- [x] : Inverter o tema.
+- [x] : Permite inverter o tema.
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a estrutura 
-`CSS`: Linguagem utilizada para desenvolver o visual 
-`JavaScript`: Linguagem utilizada para desenvolver a lógica de toda a aplicação
-
+- `HTML`
+- `CSS`
+- `JavaScript`
 
 ## 💬 Assuntos abordados
 - HTML
