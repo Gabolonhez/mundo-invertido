@@ -5,7 +5,7 @@
 
 ## 📑 Descrição
 
-Site do mundo invertido da série Stranger Things
+Site do mundo invertido da série Stranger Things.
 
 ## 🎯 Funcionalidades
 
